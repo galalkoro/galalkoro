@@ -4,24 +4,24 @@
 
 ![git hub truphy](https://github-profile-trophy.vercel.app/?username=galalkoro&yes-frame=true)
 
-## 7 months bootcamp training at BeCode.
+## One year bootcamp training at Intec Brussel.
 
-![github](/imgaes/github.png)
-![branches](/imgaes/branches.png)
-![html](/imgaes/html.png)
-![css](/imgaes/css.png)
-![bootstrap](/imgaes/bootstrap.png)
-![sass](/imgaes/sass.png)
-![javascript](/imgaes/javascript.png)
-![nodejs](/imgaes/nodejs.png)
-![php](/imgaes/php.png)
-![sql](/imgaes/sql-server.png)
-![c#](/imgaes/c-sharp.png)
-![happy](/imgaes/happy.png)
+![HarWare](./imgaes/computer_hardware.jpg)
+![Talstels](./imgaes/Decimal-to-Binary-Conversion1.png)
+![Virtualization](./imgaes/hyper-virtualization.jpg)
+![Cisco](./imgaes/cisco.jpg)
+![Voip](./imgaes/What-Is-VoIP-2.png)
+![Windows Client](./imgaes/client.png)
+![Storage](./imgaes/storage.jpg)
+![Linux server](./imgaes/linux-server.jpg)
+![ITIL](./imgaes/ITIL-Service-Lifecycle.png)
+![Cloud](./imgaes/cloud-computing.png)
+![Exchange](./imgaes/Microsoft-Exchange-Server.jpg)
+![Firewall](./imgaes/firewall_types.png)
 
 ---
 
-- 🌱 I’m currently learner at *BeCode* bootcamp campus as a junior full stack developer.
+- 🌱 I’m currently learner at *Intec Brussel* bootcamp campus as a junior network infrastructure.
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/galal-koro-1726891a9/) [my page](https://galalkoro98.github.io/galal-bio/)
 
