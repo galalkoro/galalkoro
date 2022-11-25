@@ -21,7 +21,7 @@
 
 ---
 
-- 🌱 I’m currently learner at *Intec* *Brussel* bootcamp campus as a junior network infrastructure.
+- 🌱 I’m currently learner at **Intec** **Brussel** bootcamp campus as a junior network infrastructure.
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/galal-koro-1726891a9/) [my page](https://galalkoro98.github.io/galal-bio/)
 
