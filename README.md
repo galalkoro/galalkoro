@@ -6,22 +6,22 @@
 
 ## One year bootcamp training at Intec Brussel.
 
-![HarWare](./imgaes/computer_hardware.jpg)
-![Talstels](./imgaes/Decimal-to-Binary-Conversion1.png)
+![HarWare](./imgaes/hardware.jpg)
+![Talstels](./imgaes/Decimal-to-binary-conversion1.png)
 ![Virtualization](./imgaes/hyper-virtualization.jpg)
 ![Cisco](./imgaes/cisco.jpg)
-![Voip](./imgaes/What-Is-VoIP-2.png)
+![Voip](./imgaes/voip.png)
 ![Windows Client](./imgaes/client.png)
 ![Storage](./imgaes/storage.jpg)
 ![Linux server](./imgaes/linux-server.jpg)
-![ITIL](./imgaes/ITIL-Service-Lifecycle.png)
+![ITIL](./imgaes/itil-service-lifecycle.png)
 ![Cloud](./imgaes/cloud-computing.png)
-![Exchange](./imgaes/Microsoft-Exchange-Server.jpg)
+![Exchange](./imgaes/microsoft-exchange-server.jpg)
 ![Firewall](./imgaes/firewall_types.png)
 
 ---
 
-- 🌱 I’m currently learner at *Intec Brussel* bootcamp campus as a junior network infrastructure.
+- 🌱 I’m currently learner at *Intec* *Brussel* bootcamp campus as a junior network infrastructure.
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/galal-koro-1726891a9/) [my page](https://galalkoro98.github.io/galal-bio/)
 
