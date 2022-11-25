@@ -8,7 +8,7 @@
 
 ![HarWare](./imgaes/hardware.jpg)
 ![Talstels](./imgaes/Decimal-to-binary-conversion1.png)
-![Virtualization](./imgaes/hyper-virtualization.jpg)
+![Virtualization](/imgaes/hyper-virtualization.jpg)
 ![Cisco](./imgaes/cisco.jpg)
 ![Voip](./imgaes/voip.png)
 ![Windows Client](./imgaes/client.png)
